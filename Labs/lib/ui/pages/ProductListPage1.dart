@@ -6,46 +6,51 @@ class ProductListPage extends StatelessWidget {
   List<Product> products = [
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 1",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: true,
     ),
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 2",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: false,
     ),
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 3",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: true,
     ),
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 4",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: true,
     ),
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 5",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: false,
     ),
@@ -97,46 +102,51 @@ class ProductList extends StatelessWidget {
   List<Product> products = [
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 1",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: true,
     ),
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 2",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: false,
     ),
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 3",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: true,
     ),
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 4",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: true,
     ),
     Product(
       id: "01",
+      caId: "ca01",
       name: "Product 5",
       description:
           "Can't define a const constructor for a class with non-final fields. Try making all of the fields final, or removing the keyword 'const' from the constructor.",
-      imageUrl: "assets/images/avatar7.jpg",
+      imageUrl: "images/avatar7.png",
       price: 100,
       isFavorite: false,
     ),
